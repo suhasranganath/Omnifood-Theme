@@ -135,7 +135,7 @@ input[type=submit]:hover,
 
 
 header{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75)), url(resources/css/img/hero.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75)), url(../img/hero.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -344,7 +344,7 @@ header{
 /*-------------------------------------------------------*/
 
 .customer-testimonial{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(resources/img/back-customers.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(../img/back-customers.jpg);
     background-size: cover;
     background-attachment: fixed;
     color: #fff;
